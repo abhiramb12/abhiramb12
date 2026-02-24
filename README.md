@@ -29,8 +29,6 @@ The work here reflects an engineering practice in progress: FPGA architectures i
 
 </div>
 
-<br/>
-
 ### Skills
 
 <br/>
